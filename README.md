@@ -1,5 +1,8 @@
 # RISE Weekend
 
+Xcode Requirements:
+ - Xcode Version 7.* installed (preferably 7.3, as this project was built using this).
+
 To set up:
  - Open Terminal. Use the `cd` (change directory) command to move to a folder in which you'd like to store this project.
  - In Terminal, consider using the `mkdir` (make directory) command to create a folder to organize projects.
